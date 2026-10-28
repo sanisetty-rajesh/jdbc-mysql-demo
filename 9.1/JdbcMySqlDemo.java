@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Main {
+public class JdbcMySqlDemo {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/mydatabase";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "your_password";
